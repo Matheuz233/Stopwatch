@@ -45,7 +45,7 @@ body {
   border: none;
   border-radius: 7px;
   color: white;
-  box-shadow: 2px 2px rgba(36, 35, 35, 0.411);
+  box-shadow: 2px 2px rgba(36, 35, 35, 0.274);
   cursor: pointer;
 }
 
@@ -59,11 +59,6 @@ body {
 
 #reset {
   background-color: #ba3535;
-}
-
-.button:hover {
-  box-shadow: none;
-  transform: scale(1.05);
 }
 
 .button:active {
